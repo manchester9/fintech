@@ -1,9 +1,10 @@
 # ft-casestudy
 Case study for FinTech homework
 
+
 ## Company Information
-* Company Name: My Tech Co.
-* Found in 2005
+* Company Name: **My Tech Co.**
+* Founded in 2005
 
 
 ## Background
@@ -13,3 +14,18 @@ Case study for FinTech homework
 ## Future
 * Asset management analytics
 * Wealth management analytics
+
+
+## Timeline
+1. Founded 2005
+1. Received Series A funding 2006
+1. ...
+
+---
+
+### Landscape
+After the dotcom crash looking for reliable opportunties 
+
+
+## Location - New York City
+[New York](www.cnn.com)
