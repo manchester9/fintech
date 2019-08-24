@@ -2,13 +2,13 @@
 * Apple Pay is the leading mobile payment and digital service
 
 ## What do they do? 
-* Mobile payment 
+* Mobile payment and digital services. Inital release in 2014
 
 ## Who are their competitors?
 * Google Pay
 
 ## How does this company use technology to their advantage? 
-* Company uses a combination of finance and mobile payment systems to deliver value
+* Company uses a combination of finance and mobile payment systems to deliver value. The   service is compatible with iPhone 6 and newer, iPad Air 2 and newer, Macs with Touch     ID, and all Apple Watches. Users with the iPhone 5 and iPhone 5C can use the service     through an Apple Watch, though it lacks Touch ID security. 
 
 ## Why are they considered a FinTech company?
 * Combination of finance and technology
@@ -18,7 +18,7 @@
 
 ## What are their strengths and weaknesses?
 * Strenghts is providing an easy way to pay for things
-* Weakness - 
+* Weakness - Merchant meltdown, icloudy reputation, bank balking and no prepaid options
 
 ## What is the prognosis for this company? 
 * Leader in space
