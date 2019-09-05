@@ -1,1 +1,1 @@
-# Fintech
+## Columbia Fintech assignments
