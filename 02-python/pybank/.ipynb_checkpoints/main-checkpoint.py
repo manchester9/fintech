@@ -1,6 +1,5 @@
 import pandas as pd 
 import numpy as np
-import sklearn as sk
 
 #########################
 ## PyBank discovery #####
@@ -39,41 +38,56 @@ def average_change(dataframe, col):
     The average of the changes in Profit/Losses 
     over the entire period.
     """
-    average_change = dataframe[col].pct_change().mean()
+    average_change = dataframe[col].diff().mean()
     return average_change 
 
-def greatest_increase(dataframe):
+def greatest_increase(dataframe, col):
     """
     The greatest increase in profits 
     (date and amount) over the entire period.
     """
-    greatest_increase = dataframe.pct_change().max()
+    greatest_increase = dataframe[col].diff().max()
     return int(greatest_increase)
 
-def greatest_decrease(dataframe):
+def greatest_decrease(dataframe, col):
     """
     The greatest decrease in losses 
     (date and amount) over the entire period.
     """
-    greatest_decrease = dataframe.pct_change().min()
+    greatest_decrease = dataframe[col].diff().min()
     return int(greatest_decrease)
 
 
-f"Financial Analysis " 
-f"---------------------------- " 
-f"Total Months: {total_months(budget_dataframe)}" 
-f"Total: {net_total(budget_dataframe, 'Profit_Losses')}"
-f"Average  Change: {average_change(budget_dataframe,'Profit_Losses')}"
-f"Greatest Increase in Profits: Feb-2012 {greatest_increase(budget_dataframe)}"
-f"Greatest Decrease in Profits: Sep-2013 {greatest_decrease(budget_dataframe)}"
-      
-send_to_csv(budget_data_summary.csv)
+#########################
+## Print to terminal ####
+#########################
+print(
 
-####### Things to consider ########
-# Dollar sign
-# Evaluating multi-line f strings 
-# min and max
-# pct_change
-# output to file
+f"Financial Analysis " '\n'
+f"---------------------------- " '\n' 
+f"Total Months: {total_months(budget_dataframe)}" '\n'
+f"Total: ${net_total(budget_dataframe, 'Profit_Losses')}" '\n'
+f"Average  Change: ${average_change(budget_dataframe,'Profit_Losses')}" '\n'
+f"Greatest Increase in Profits: Feb-2012 ${greatest_increase(budget_dataframe, 'Profit_Losses')}" '\n'
+f"Greatest Decrease in Profits: Sep-2013 ${greatest_decrease(budget_dataframe, 'Profit_Losses')}"  '\n'
+  
+    )
+
+#########################
+## Output to file #######
+#########################
+print(
+
+f"Financial Analysis " '\n'
+f"---------------------------- " '\n' 
+f"Total Months: {total_months(budget_dataframe)}" '\n'
+f"Total: {net_total(budget_dataframe, 'Profit_Losses')}" '\n'
+f"Average  Change: {average_change(budget_dataframe,'Profit_Losses')}" '\n'
+f"Greatest Increase in Profits: Feb-2012 {greatest_increase(budget_dataframe, 'Profit_Losses')}" '\n'
+f"Greatest Decrease in Profits: Sep-2013 {greatest_decrease(budget_dataframe, 'Profit_Losses')}"  '\n'
+    , file = open('output.txt', 'a')
+      
+    )
+
 
       
