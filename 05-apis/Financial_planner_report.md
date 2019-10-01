@@ -35,13 +35,24 @@
 
 
 
-
-
 ******************************************************************************
 # Retirement Planning: Summarize the retirement portfolio analysis and include the charts for the Monte Carlo simulation.
 *****************************************************************************
 
+# Overview with charts
+
+![Portfolio cumulative returns](Images/portfolio_cumulative_returns.png)
+
+![Ending cumulative returns](Images/ending_cumulative_returns.png)
+
+
+![Probability distribution with confidence intervals](Images/probability_distribution_with_confidence_intervals.png)
+
+
 * What are the expected cumulative returns at 30 years for the 10th, 50th, and 90th percentiles?
+
+
+
 
 
 
