@@ -4,4 +4,4 @@
 ## Creating tables
 ## Creating relationships
 ## Querying database
-### Joins, and stored procedures
+### Select/Where/Order-by/group-by, Joins, sub-queries, correlated queries, stored procedures, views/materialized views, triggers, cursors, 

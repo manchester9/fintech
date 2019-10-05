@@ -1,0 +1,2 @@
+export MAPBOX_TOKEN="pk.eyJ1Ijoicm9sYW5kZiIsImEiOiJjazEzaDV6b3owMWc2M29ydHIxNnFmMzl4In0.h0tLrtzT2yLPzajhwo40ow
+5d7d1f362dd19f001492b690"
