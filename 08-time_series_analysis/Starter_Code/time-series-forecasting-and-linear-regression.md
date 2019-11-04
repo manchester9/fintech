@@ -9,3 +9,7 @@
 
 # REGRESSION MODELING
 ## Does this model perform better or worse on out-of-sample data compared to in-sample data?
+## Model summary
+### R2
+### MSE
+### RMSE
