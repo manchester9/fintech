@@ -13,7 +13,7 @@
 
 
 
-# ENSEMBLE LEARNING 
+# ENSEMBLE LEARNING
 ## Which model had the best balanced accuracy score?
 * TBD 
 
@@ -27,4 +27,7 @@
 
 
 ## What are the top three features?
-* TBD
+* The top features in the model are listed below:
+    - TBD
+    - TBD
+    - TBD
