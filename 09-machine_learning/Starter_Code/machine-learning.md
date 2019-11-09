@@ -1,18 +1,3 @@
-# RESAMPLING
-## Which model had the best balanced accuracy score?
-* TBD
-
-
-## Which model had the best recall score?
-* TBD
-
-
-## Which model had the best geometric mean score?
-* TBD
-
-
-
-
 # ENSEMBLE LEARNING
 ## Which model had the best balanced accuracy score?
 * TBD 
@@ -31,3 +16,20 @@
     - TBD
     - TBD
     - TBD
+
+
+# RESAMPLING
+## Which model had the best balanced accuracy score?
+* TBD
+
+
+## Which model had the best recall score?
+* TBD
+
+
+## Which model had the best geometric mean score?
+* TBD
+
+
+
+
