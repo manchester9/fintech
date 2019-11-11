@@ -1,22 +1,22 @@
 # ENSEMBLE LEARNING
 ## Which model had the best balanced accuracy score?
-* TBD 
+* The EasyEnsembleClassifier has a better balanced accuracy score 
 
 
 ## Which model had the best recall score?
-* TBD
+* EasyEnsembleClassifier vs. LogisticRegression
 
 
 ## Which model had the best geometric mean score?
-* TBD
+* EasyEnsembleClassifier vs. LogisticRegression
 
 
 ## What are the top three features?
 * The top features in the model are listed below:
-    - TBD
-    - TBD
-    - TBD
-
+    -(0.09175752102205247, 'total_rec_prncp')
+     -(0.06410003199501778, 'total_pymnt_inv')
+     -(0.05764917485461809, 'total_pymnt')
+ 
 
 # RESAMPLING
 ## Which model had the best balanced accuracy score?
