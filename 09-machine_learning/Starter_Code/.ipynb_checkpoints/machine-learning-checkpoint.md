@@ -14,8 +14,8 @@
 ## What are the top three features?
 * The top features in the model are listed below:
     -(0.09175752102205247, 'total_rec_prncp')
-     -(0.06410003199501778, 'total_pymnt_inv')
-     -(0.05764917485461809, 'total_pymnt')
+    -(0.06410003199501778, 'total_pymnt_inv')
+    -(0.05764917485461809, 'total_pymnt')
  
 
 # RESAMPLING
