@@ -1,10 +1,10 @@
 # ENSEMBLE LEARNING
 ## Which model had the best balanced accuracy score?
-* The EasyEnsembleClassifier has a better balanced accuracy score 
+* The EasyEnsembleClassifier has the best balanced accuracy score 
 
 
 ## Which model had the best recall score?
-* EasyEnsembleClassifier vs. LogisticRegression
+* Balanced Random Forest Classifier
 
 
 ## Which model had the best geometric mean score?
@@ -20,16 +20,15 @@
 
 # RESAMPLING
 ## Which model had the best balanced accuracy score?
-* TBD
+* Naive random sampling: 0.74
 
 
 ## Which model had the best recall score?
-* TBD
+* Naive random sampling
 
 
 ## Which model had the best geometric mean score?
-* TBD
-
+* Naive random sampling
 
 
 
