@@ -4,11 +4,11 @@
 
 
 ## Which model had the best recall score?
-* Balanced Random Forest Classifier
+* EasyEnsembleClassifier
 
 
 ## Which model had the best geometric mean score?
-* EasyEnsembleClassifier vs. LogisticRegression
+* EasyEnsembleClassifier
 
 
 ## What are the top three features?
@@ -20,15 +20,15 @@
 
 # RESAMPLING
 ## Which model had the best balanced accuracy score?
-* Naive random sampling: 0.74
+* Naive random oversampling
 
 
 ## Which model had the best recall score?
-* Naive random sampling
+* Naive random oversampling
 
 
 ## Which model had the best geometric mean score?
-* Naive random sampling
+* Naive random oversampling
 
 
 
