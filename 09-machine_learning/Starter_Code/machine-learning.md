@@ -20,7 +20,7 @@
 
 # RESAMPLING
 ## Which model had the best balanced accuracy score?
-* TBD
+* Naive random sampling: 0.74
 
 
 ## Which model had the best recall score?
