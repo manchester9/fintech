@@ -7,7 +7,7 @@
 1. [Fintech Case Study](https://github.com/manchester9/fintech/tree/master/01-fintech_case_study)
 2. [Python](https://github.com/manchester9/fintech/tree/master/02-python) 
 3. [Pandas Part-01](https://github.com/manchester9/fintech/tree/master/03-pandas_part_01)
-4. [Pandas Part-02]()
+4. [Pandas Part-02](https://github.com/manchester9/fintech/tree/master/03-pandas_part_01)
 5. [APIs](https://github.com/manchester9/fintech/tree/master/05-apis)
 6. [Data Visualization](https://github.com/manchester9/fintech/tree/master/06-data_visualization)
 7. [SQL](https://github.com/manchester9/fintech/tree/master/07-sql)
