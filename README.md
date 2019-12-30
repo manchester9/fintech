@@ -33,4 +33,4 @@ This repo contains all assignments and projects from the Columbia Engineereing F
 ### Below is a list of projects for easy perusal:
 ---
 1. [Portfolio Optimizer](https://github.com/manchester9/portfolio-optimization)
-2. [Machine Learning based stock selector](https://github.com/jennifermulroy/Project2_MachineLearning)
+2. [Machine Learning based Stock Selector](https://github.com/jennifermulroy/Project2_MachineLearning)
