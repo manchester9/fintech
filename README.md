@@ -1,9 +1,12 @@
-![Fintech logo](images/columbia-university.gif)
+<p align="center"><img width=20% src="images/columbia-university.gif"></p>
 
-# Columbia Fintech assignments
+<p align="center" style="color:DodgerBlue; font-family:cambria; font-variant: normal; font-size:30pt">FINTECH PROGRAM
+</p>
 
-## This is a repo of all the different assignmened from the Columbia Fintech Bootcamp
-### Below is the list of all the assignments for easy perusal:
+## **Overview**
+This repo contains all assignments from the Columbia Engineereing Fintech Program
+
+### Below is the list of assignments for easy perusal:
 1. [Fintech Case Study](https://github.com/manchester9/fintech/tree/master/01-fintech_case_study)
 2. [Python](https://github.com/manchester9/fintech/tree/master/02-python) 
 3. [Pandas Part-01](https://github.com/manchester9/fintech/tree/master/03-pandas_part_01)
@@ -16,9 +19,11 @@
 10. [Unsupervised learning AWS Cloud](https://github.com/manchester9/fintech/tree/master/10-api_infrastructure)
 11. [Natural Language Processing](https://github.com/manchester9/fintech/tree/master/11-natural_language_processing)
 12. [Deep Learning](https://github.com/manchester9/fintech/tree/master/12-deep_learning) 
-13. [Algorithmic Trading]() 
-14. [Blockchain]()
-15. [Blockchain Using Python]()
-16. [Smart Contracts Solidity]()
-17. [Advanced Solidity]()
-18. [Decentralized Apps]()
+13. [Cryptocurrency Clustering](https://github.com/manchester9/unit13-challenge/tree/master/CryptoCurrency) 
+14. [Robo Advisor](https://github.com/manchester9/unit13-challenge/tree/master/RoboAdvisor)
+15. [Algorithmic Trading]()
+16. [Blockchain]()
+17. [Blockchain Using Python]()
+18. [Smart Contracts Solidity]()
+19. [Advanced Solidity]()
+20. [Decentralized Apps]()
