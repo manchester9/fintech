@@ -6,8 +6,9 @@
 ## **Overview**
 This repo contains all assignments and projects from the Columbia Engineereing Fintech Program
 
-### Below is a list of assignments for easy perusal:
----
+# **Table of Contents**
+
+## Assignments
 1. [Fintech Case Study](https://github.com/manchester9/fintech/tree/master/01-fintech_case_study)
 2. [Python](https://github.com/manchester9/fintech/tree/master/02-python) 
 3. [Pandas Part-01](https://github.com/manchester9/fintech/tree/master/03-pandas_part_01)
@@ -30,7 +31,6 @@ This repo contains all assignments and projects from the Columbia Engineereing F
 20. [Decentralized Apps]()
 
 
-### Below is a list of projects for easy perusal:
----
+## Projects
 1. [Portfolio Optimizer](https://github.com/manchester9/portfolio-optimization)
 2. [Machine Learning based Stock Selector](https://github.com/jennifermulroy/Project2_MachineLearning)
