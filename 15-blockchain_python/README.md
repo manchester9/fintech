@@ -16,7 +16,7 @@ the script into your backend with your dear old friend, Python.
 
 ## Below are the steps in transacting on the blockchain
 1. Install hd-derive library and get the address manually from command line
-* ![Run hd-derive library manually from command line](images/hd-wallet-derive-library-installed.png)
+* ![Run hd-derive library manually from command line](image/hd-wallet-derive-library-installed.png)
 
 2. Now lets automate this via Python and transact with Bitcoin or Ethereum
 
