@@ -20,12 +20,12 @@ This repo contains all assignments and projects from the Columbia Engineereing F
 9. [Machine Learning](https://github.com/manchester9/fintech/tree/master/09-machine_learning) 
 10. [Robo Advisor](https://github.com/manchester9/unit13-challenge/tree/master/RoboAdvisor)
 11. [Cryptocurrency Clustering](https://github.com/manchester9/unit13-challenge/tree/master/CryptoCurrency) 
-12. [Natural Language Processing](https://github.com/manchester9/fintech/tree/master/11-natural_language_processing)
-13. [Deep Learning](https://github.com/manchester9/fintech/tree/master/12-deep_learning) 
+12. [Natural Language Processing](https://github.com/manchester9/fintech/tree/master/12-natural_language_processing)
+13. [Deep Learning](https://github.com/manchester9/fintech/tree/master/13-deep_learning) 
 14. [Blockchain](https://github.com/manchester9/fintech/tree/master/14-blockchain)
-15. [Blockchain Using Python](https://github.com/manchester9/fintech/tree/master/15-blockchain_python/Images)
+15. [Blockchain Using Python](https://github.com/manchester9/fintech/tree/master/15-blockchain_python)
 16. [Smart Contracts Solidity](https://github.com/manchester9/fintech/tree/master/16-smart_contracts_solidity)
-17. [Advanced Solidity](https://github.com/manchester9/fintech/tree/master/17-advanced_solidity)
+17. [Advanced Solidity](https://github.com/manchester9/fintech/tree/master/16-advanced_solidity)
 18. [Decentralized Apps](https://github.com/manchester9/fintech/tree/master/18-decentralized_apps)
 
 ## Projects
