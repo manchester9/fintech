@@ -12,6 +12,7 @@ It will need to inherit `Crowdsale`, `CappedCrowdsale`, `TimedCrowdsale`, `Refun
 Conducting crowdsale on the Ropsten network
 
 # Screenshots of steps in the process
+![Pupper-coin-transaction](images/00-puppercoin-transact.png)
 ![Pupper-Coin](images/01-etherscan-pupper-coin.png)
 ![Compilation](images/02-pupper-coin-with-prior-address.png)
 ![Depoyment](images/03-deploying-goal.png)
