@@ -31,4 +31,4 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 ## Projects
 1. [Portfolio Optimizer](https://github.com/manchester9/portfolio-optimization)
 2. [Machine Learning based Stock Selector](https://github.com/jennifermulroy/Project2_MachineLearning)
-3. [Decentralized applications]()
+3. [Decentralized applications](https://github.com/jenrionda/music-on-the-blockchain)
